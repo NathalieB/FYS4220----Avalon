@@ -1,0 +1,4 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.rse.connectorservice.telnet,1.2.200.v201101042155,"org.eclipse.rse.connectorservice.telnet",1383671935496
+stopped,bundle,org.eclipse.rse.dstore.security,3.0.300.v201103141607,"org.eclipse.rse.dstore.security",1383671935497
+stopped,bundle,org.eclipse.rse.efs,2.1.300.v201101042155,"org.eclipse.rse.efs",1383671935498
